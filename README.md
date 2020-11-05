@@ -23,3 +23,5 @@ In this project a table is provided, the data of 4,000 past Kickstarter projects
 
 3.	What are some other possible tables and/or graphs that we could create?
 - Pie, Waterfall, Histogram
+
+[![](img/SubcategoryStats.png)]()  
